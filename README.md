@@ -7,7 +7,7 @@
 
 <p align="center">
  
-  ![AIDOR Screenshot](AIDORt.PNG)
+  ![AIDOR Screenshot](AIDOR.png)
 </p>
 
 **AIDOR** (Automated IDOR Detector) is a professional Bash utility for **authorized penetration testers** to identify **Insecure Direct Object Reference (IDOR)** vulnerabilities in web applications. Detects numerical IDs, parameter patterns, and performs automated enumeration tests.
